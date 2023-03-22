@@ -25,6 +25,9 @@ from tf.transformations import euler_from_quaternion
 import numpy as np
 
 msg = """
+
+Fonction adaptee de pointop !
+
 control your Turtlebot3!
 -----------------------
 Insert xyz - coordinate.
